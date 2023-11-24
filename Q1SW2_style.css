@@ -1,0 +1,69 @@
+body {
+	min-height: 100%;
+	background-image: url("");
+	background-repeat: no-repeat;
+	background-size: ;
+	background-position: center center;
+	background-color: lightgreen;
+}
+
+h1 {
+	color: darkblue;
+	text-align: left;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+table, th, td {
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid green;
+	padding: 10px;
+	text-align: center;
+}
+
+td {
+	text-align: left;
+	font-weight: bold;
+	color: black;
+
+}
+
+th.first {
+	color: forestgreen;
+	font-weight: bolder;
+}
+
+th.second {
+	color: royalblue;
+	font-weight: bolder;
+}
+
+th.third {
+	color: orangered;
+	font-weight: bolder;
+}
+
+th.fourth {
+	color: yellow;
+	font-weight: bolder;
+}
+	
+table {
+	width: 95%;
+	height: 95%;
+}
+
+th.una {
+	letter-spacing: 15px;
+	font-weight: bolder;
+	font-size: 20;
+}
+
+ol {
+	font-weight: bolder;
+}
+
+ul {
+	font-weight: bold;
+}
